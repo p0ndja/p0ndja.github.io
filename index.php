@@ -6,5 +6,6 @@
             header("Location: ./pharm.html");
         }
     } else {
-        echo 'Hello World';
+        header("Location ./engi.html");
     }
+?>
