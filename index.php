@@ -6,6 +6,6 @@
             header("Location: ./pharm.html");
         }
     } else {
-        header("Location ./engi.html");
+        header("Location: ./engi.html");
     }
 ?>
