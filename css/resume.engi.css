@@ -4,10 +4,21 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
  */
 
+@font-face {
+    font-family: fc_iconic;
+    src: url('../font/FCIconicRegular.203b6ffd.ttf');
+}
+
+@font-face {
+    font-family: fc_iconic;
+    src: url('../font/FCIconicBold.cc627412.ttf');
+    font-weight: 700;
+}
+
 body {
-    font-family: 'Mitr', sans-serif;
+    font-family:  Inter, 'fc_iconic', Prompt, sans-serif;
     padding-top: 54px;
-    color: #868e96
+    color: #868e96;
 }
 
 @media (min-width:992px) {
@@ -23,22 +34,27 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Mitr', sans-serif;
+    font-family: 'fc_iconic', sans-serif;
+    font-weight: bold;
     text-transform: uppercase;
     color: #24282b
 }
 
 h1 {
-    font-size: 6rem;
-    line-height: 5.5rem
+    font-size: 8rem;
 }
 
 h2 {
-    font-size: 3.5rem
+    font-size: 6rem;
+    line-height: 5rem;
 }
 
 h3 {
-    font-size: 2rem
+    font-size: 3rem
+}
+
+h4 {
+    font-size: 1.75rem
 }
 
 p.lead {
@@ -50,10 +66,14 @@ p {
     color: #32373b;
 }
 
+p,li {
+    font-family: 'Prompt', sans-serif;
+}
+
 .subheading {
     text-transform: uppercase;
     font-weight: 500;
-    font-family: 'Mitr', sans-serif;
+    font-family: 'Prompt', sans-serif;
     font-size: 1.5rem
 }
 
