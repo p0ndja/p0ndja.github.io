@@ -1,0 +1,1026 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>ePortfolio - พลภณ สุนทรภาส</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Prompt:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
+    <link href="../vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="../css/resume.engi.css" rel="stylesheet">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5249401084148971" crossorigin="anonymous"></script>
+    <style>
+        figure {
+            display: block;
+            margin: 10px auto;
+        }
+
+        figcaption {
+            text-align: center;
+            font-style: italic;
+        }
+
+        #heading {
+            color: blue;
+        }
+
+        .popular {
+            border: 4px dotted red;
+        }
+    </style>
+</head>
+
+<body id="page-top">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">
+            <span class="d-block d-lg-none">Palapon Soontornpas</span>
+            <span class="d-none d-lg-block">
+        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="https://pondja.com/p0ndja.jpg" alt="">
+        <h4 style="color:white" mb-2><b>พลภณ สุนทรภาส</b></h4>
+      </span>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#about">เกี่ยวกับ</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#education">ประวัติการศึกษา</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#skills">ความสามารถ</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#experience">ประสบการณ์</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#interests">โปรเจกต์</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#awards">ความภาคภูมิใจ</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#praise">คำนิยม</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#appendix">ภาคผนวก</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container-fluid p-0">
+
+        <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
+            <div class="w-100">
+                <h3 class="mb-0 text-primary"><b>Palapon Soontornpas</b></h3>
+                <h2 class="mb-0"><b>พลภณ สุนทรภาส</b></h2>
+                <hr>
+                <div class="row">
+                    <div class="col-12 col-md-5">
+                        <p class="lead" style="color: black">สวัสดีครับ ผม นายพลภณ สุนทรภาส หรือ ปอนด์<br>ยินดีต้อนรับเข้าสู่ ePortfolio ของผมนะครับ~</p>
+                    </div>
+                    <div class="col-12 col-md-7 text-md-right">
+                        <div class="social-icons">
+                            <a href="mailto:palapon2545@gmail.com" target="_blank">
+                                <i class="far fa-envelope"></i>
+                            </a>
+                            <a href="https://www.facebook.com/p0ndja" target="_blank">
+                                <i class="fab fa-facebook-f"></i>
+                            </a>
+                            <a href="https://www.twitter.com/p0ndja" target="_blank">
+                                <i class="fab fa-twitter"></i>
+                            </a>
+                            <a href="https://www.github.com/p0ndja" target="_blank">
+                                <i class="fab fa-github"></i>
+                            </a>
+                            <a href="http://line.me/ti/p/~pondja2545" target="_blank">
+                                <i class="fab fa-line"></i>
+                            </a>
+                            <a href="tel:+66908508007" target="_blank">
+                                <i class="fas fa-phone"></i>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-12 mt-3">
+                        <div class="row">
+                            <div class="col-4">
+                                <figure>
+                                    <a class="pop" data-toggle="modal" data-target="#pic"><img src="../img/Screenshot 2021-05-02 165114.jpg" alt="วิทยากรค่าย CESCa16" class="img-fluid"></a>
+                                    <figcaption>วิทยากรวิชา HTML CSS JavaScript ค่าย CESCa#16</figcaption>
+                                </figure>
+                            </div>
+                            <div class="col-4">
+                                <figure>
+                                    <a class="pop" data-toggle="modal" data-target="#pic"><img src="../img/DSC_3267.JPG" alt="วิทยากรและพี่เลี้ยงค่ายคณะกรรมการนักเรียนสาธิตฯ (มอดินแดง)" class="img-fluid"></a>
+                                    <figcaption>วิทยากรและพี่เลี้ยงค่ายคณะกรรมการนักเรียนสาธิตฯ (มอดินแดง)</figcaption>
+                                </figure>
+                            </div>
+                            <div class="col-4">
+                                <figure>
+                                    <a class="pop" data-toggle="modal" data-target="#pic"><img src="../img/sngrwebproject.jpg" alt="Project: Srinagarind Hospital Website" class="img-fluid"></a>
+                                    <figcaption>โปรเจ็กต์: เว็บไซต์โรงพยาบาลศรีนครินทร์</figcaption>
+                                </figure>
+                            </div>
+                            <div class="col-12">
+                                <p id="heading">ภาพทั้งสามภาพนำมาจาก</p>
+                                <ul>
+                                    <li class="popular">ค่าย CESCa#16 ภาควิชาวิศวกรรมคอมพิวเตอร์ คณะวิศวกรรมศาสตร์ มหาวิทยาลัยขอนแก่น</li>
+                                    <li>กิจกรรมสัมมนาและส่งเสริมศักยภาพความเป็นผู้นำของคณะกรรมการนักเรียน โรงเรียนสาธิตมหาวิทยาลัยขอนแก่น ฝ่ายมัธยมศึกษา (มอดินแดง)</li>
+                                    <li class="popular">โรงพยาบาลศรีนครินทร์ คณะแพทยศาสตร์ มหาวิทยาลัยขอนแก่น</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+        <hr class="m-0">
+
+        <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="education">
+            <div class="w-100">
+                <h4 class="text-primary"><b>Education</b></h4>
+                <h2 class="mb-5"><b>ประวัติการศึกษา</b></h2>
+                <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
+                    <div class="resume-content md-1">
+                        <h3 class="mb-0">(กำลังศึกษาอยู่) คณะวิศวกรรมศาสตร์ มหาวิทยาลัยขอนแก่น</h3>
+                        <div class="subheading mb-3"><span class="badge badge-danger">ระดับปริญญาตรี</span></div>
+                        <div class="row">
+                            <div class="col-4 col-md-2"> <img src="../img/enkku.png" class="img img-fluid" />
+                            </div>
+                            <div class="col-8 col-md-10">
+                                <p>
+                                    หลักสูตร: <b>หลักสูตรวิศวกรรมศาสตรบัณฑิต สาขาวิศวกรรมคอมพิวเตอร์</b><br>ผลการเรียน:
+                                <br>ชั้นปีที่ 1 ภาคเรียนที่ 1/2563: <b>3.78</b>
+                                <br>ชั้นปีที่ 1 ภาคเรียนที่ 2/2563: <b>3.56</b>
+                                <br>ชั้นปีที่ 2 ภาคเรียนที่ 1/2564: <b>4.00</b>
+                                <br>ชั้นปีที่ 2 ภาคเรียนที่ 2/2564: <b>3.93</b>
+                            </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="resume-date text-md-right">
+                        <h5><span class="badge badge-danger text-white"><i class="far fa-clock"></i> 2563 - ปัจจุบัน</span></h5>
+                    </div>
+                </div>
+                <hr>
+                <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
+                    <div class="resume-content md-1">
+                        <h3 class="mb-0">โรงเรียนสาธิตมหาวิทยาลัยขอนแก่น ฝ่ายมัธยมศึกษา (มอดินแดง)</h3>
+                        <div class="subheading mb-3"><span class="badge badge-danger">ระดับมัธยมศึกษาตอนปลาย</span></div>
+                        <div class="row">
+                            <div class="col-4 col-md-2"> <img src="../img/smdlogo.png" class="img img-fluid" />
+                            </div>
+                            <div class="col-8 col-md-10">
+                                <p>สายการเรียน: <b>วิทย์ - คณิต (หลักสูตร EMSP: English Mathematics Science Program)</b><br> ผลการเรียนเฉลี่ย: <b>3.97</b></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="resume-date text-md-right">
+                        <h5><span class="badge badge-danger text-white"><i class="far fa-clock"></i> 2560 - 2563</span></h5>
+                    </div>
+                </div>
+                <hr>
+                <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
+                    <div class="resume-content md-1">
+                        <h3 class="mb-0">โรงเรียนสาธิตมหาวิทยาลัยขอนแก่น ฝ่ายมัธยมศึกษา (มอดินแดง)</h3>
+                        <div class="subheading mb-3"><span class="badge badge-danger">ระดับมัธยมศึกษาตอนต้น</span></div>
+                        <div class="row">
+                            <div class="col-4 col-md-2"> <img src="../img/smdlogo.png" class="img img-fluid" />
+                            </div>
+                            <div class="col-8 col-md-10">
+                                <p>สายการเรียน: <b>วิทย์ - คณิต (หลักสูตร IEC: Intensive English Course)</b><br> ผลการเรียนเฉลี่ย: <b>3.90</b></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="resume-date text-md-right">
+                        <h5><span class="badge badge-danger text-white"><i class="far fa-clock"></i> 2557 - 2560</span></h5>
+                    </div>
+                </div>
+                <hr>
+                <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
+                    <div class="resume-content md-1">
+                        <h3 class="mb-0">โรงเรียนสาธิตมหาวิทยาลัยขอนแก่น ฝ่ายประถมศึกษา (มอดินแดง)</h3>
+                        <div class="subheading mb-3"><span class="badge badge-danger">ระดับประถมศึกษา</span></div>
+                        <div class="row">
+                            <div class="col-4 col-md-2"> <img src="../img/psmdlogo.png" class="img img-fluid" />
+                            </div>
+                            <div class="col-8 col-md-10">
+                                <p>สายการเรียน: <b>วิทย์ - คณิต (หลักสูตรทั่วไป)</b><br> ผลการเรียนเฉลี่ย: <b>4.00</b></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="resume-date text-md-right">
+                        <h5><span class="badge badge-danger text-white"><i class="far fa-clock"></i> 2551 - 2557</span></h5>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <hr class="m-0">
+
+        <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="skills">
+            <div class="w-100">
+                <h2 class="mb-5">ความสามารถ</h2>
+                <ul class="fa-ul mb-3 text-dark">
+                    <li>
+                        <i class="fa-li fa fa-check"></i> ทักษะด้านการเขียนโปรแกรมคอมพิวเตอร์</li>
+                    <li>
+                        <i class="fa-li fa fa-check"></i> ทักษะการฟัง พูด อ่าน เขียน ภาษาอังกฤษ <b>ระดับ B2 High</b></li>
+                    <div class="row">
+                        <div class="col-12 col-md-5">
+                            <center>
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid border" src="../img/Scan_0006.jpg"></a>
+                            </center>
+                        </div>
+
+                    </div>
+                </ul>
+                <div class="subheading mb-3">ภาษาทางคอมพิวเตอร์และเครื่องมือที่ศึกษา</div>
+                <ul class="list-inline dev-icons">
+                    <li class="list-inline-item">
+                        <i class="fab fa-java"></i>
+                    </li>
+                    <li class="list-inline-item">
+                        <i class="fab fa-cuttlefish"></i>
+                    </li>
+                    <li class="list-inline-item">
+                        <i class="fab fa-php"></i>
+                    </li>
+                    <li class="list-inline-item">
+                        <i class="fab fa-html5"></i>
+                    </li>
+                    <li class="list-inline-item">
+                        <i class="fab fa-css3-alt"></i>
+                    </li>
+                    <li class="list-inline-item">
+                        <i class="fab fa-wordpress"></i>
+                    </li>
+                    <li class="list-inline-item">
+                        <i class="fab fa-bootstrap"></i>
+                    </li>
+                </ul>
+            </div>
+        </section>
+
+        <hr class="m-0">
+
+        <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
+            <div class="w-100">
+                <h2 class="mb-5">ประสบการณ์</h2>
+                <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-3">
+                    <div class="row">
+                        <div class="col-12 resume-content">
+                            <h3 class="mb-0"><b>วิทยากรแนะแนวการเข้าศึกษาต่อในระดับอุดมศึกษา โครงการสานฝันสู่อุดมศึกษา</b></h3>
+                            <div class="subheading mb-3">จัดโดย โรงเรียนสาธิตมหาวิทยาลัยขอนแก่น ฝ่ายมัธยมศึกษา (มอดินแดง)
+                                <div class="badge badge-danger">2565</div>
+                                <div class="badge badge-danger">2564</div>
+                                <div class="badge badge-danger">2563</div>
+                            </div>
+                            <p>สำหรับโครงการนี้เป็นโครงการที่จัดขึ้นเพื่อเพิ่มพูนความรู้ ความสามารถและสมรรถนะทางวิชาการในสาขาต่าง ๆ เป็นการเตรียมความพร้อมในการสอบเข้ามหาวิทยาลัยด้วยระบบ TCAS และส่งเสริมให้นักเรียนมีความรู้และแนวทางในการจัดทำและยื่นแฟ้มสะสมผลงาน (Portfolio) ในการเข้าศึกษาต่อในระดับที่สูงขึ้น</p>
+                            <p>สำหรับตัวผมเองนั้นได้รับโอกาสที่จะร่วมเป็นหนึ่งในวิทยากรในการแนะแนวน้องในการเข้าศ฿กษาต่อในรอบ Portfolio อย่างต่อเนื่องเสมอมา</p>
+                        </div>
+                        <div class="col-12 text-center">
+                            <div class="row">
+                                <div class="col-12 col-md-4">
+                                    <a class="pop" data-toggle="modal" data-target="#pic"><img src="../img/IMG_4794.JPG" class="img-fluid mb-1"></a>
+                                </div>
+                                <div class="col-12 col-md-4">
+                                    <a class="pop" data-toggle="modal" data-target="#pic"><img src="../img/117094977_2983405915122474_1914224379382941975_n.jpg" class="img-fluid mb-1"></a>
+                                </div>
+                                <div class="col-12 col-md-4">
+                                    <a class="pop" data-toggle="modal" data-target="#pic"><img src="../img/120840895_1642538582575954_3762513381236339165_n.jpg" class="img-fluid mb-1"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <hr class="m-2">
+                <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-3">
+                    <div class="row">
+                        <div class="col-12 col-md-9 resume-content">
+                            <h3 class="mb-0"><b>ฝ่ายวิชาการ วิชาการสร้างเว็บไซต์ด้วย HTML CSS และ JavaScript ในค่าย Computer Engineering Summer Camp (CESCa) ครั้งที่ 16</b></h3>
+                            <div class="subheading mb-3">จัดโดย สาขาวิศวกรรมคอมพิวเตอร์ คณะวิศวกรรมศาสตร์ มหาวิทยาลัยขอนแก่น
+                                <div class="badge badge-danger">29 เมษายน 2564 - 2 พฤษภาคม 2564</div>
+                            </div>
+                            <p>สำหรับค่ายนี้เป็นค่ายที่จัดขึ้นสำหรับน้อง ๆ ที่มีความสนใจในสาขาวิศวกรรมคอมพิวเตอร์ คณะวิศวกรรมศาสตร์ มหาวิทยาลัยขอนแก่น โดยผมได้รับผิดชอบในการสอนในรายวิชาการสร้างเว็บไซต์ด้วย HTML CSS และ JavaScript</p>
+                        </div>
+                        <div class="col-12 col-md-3 text-center">
+                            <a class="pop" data-toggle="modal" data-target="#pic"><img src="../img/Screenshot 2021-05-02 165114.jpg" class="img-fluid mb-3"></a>
+                            <a class="pop" data-toggle="modal" data-target="#pic"><img src="../img/Screenshot 2021-05-02 165141.jpg" class="img-fluid mb-3"></a>
+                        </div>
+                    </div>
+                </div>
+                <hr class="m-2">
+                <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-3">
+                    <div class="row">
+                        <div class="col-12 col-md-9 resume-content">
+                            <h3 class="mb-0"><b>เข้าร่วมกิจกรรม Computer Education Open House 2018</b></h3>
+                            <div class="subheading mb-3">จัดโดย สาขาคอมพิวเตอร์ศึกษา คณะศึกษาศาสตร์ มหาวิทยาลัยขอนแก่น
+                                <div class="badge badge-danger">14 กุมภาพันธ์ 2562</div>
+                                <div class="badge badge-danger">14 กุมภาพันธ์ 2563</div>
+                            </div>
+                            <h5>
+                                <div class="text-primary">ปี 2563: <b>รางวัลชนะเลิศ การแข่งขันสร้างเว็บเพจ (Web editor) ระดับมัธยมศึกษาตอนปลาย</b><br>ปี 2562: <b>รางวัลชนะเลิศ การแข่งขันสร้างเว็บเพจ (Web editor) ระดับมัธยมศึกษาตอนปลาย</b></div>
+                            </h5>
+                            <p>สำหรับการแข่งขันนี้ ถือเป็นการแข่งขันครั้งแรกของผมในด้านการแข่งขันสร้างเว็บเพจที่จัดในรูปแบบของทีม ซึ่งนอกจากจะเป็นการเพิ่มคุณภาพของผลงานในส่วนของความสามารถของแต่ละคนในทีมแล้ว ยังเป็นการเพิ่มความสามัคคีกันในกลุ่ม และฝึกการวางแผนงานด้วยการแบ่งงานกันทำเพื่อให้เสร็จทันตามกำหนดและตรงตามเกณฑ์การให้คะแนนอีกด้วย
+                            </p>
+                        </div>
+                        <div class="col-12 col-md-3 text-center">
+                            <a class="pop" data-toggle="modal" data-target="#pic"><img src="../img/51872913_2226705510719788_2545275010625306624_o.jpg" class="img-fluid mb-3"></a>
+                            <a class="pop" data-toggle="modal" data-target="#pic"><img src="../img/IMG_5823.JPG" class="img-fluid mb-3"></a>
+                        </div>
+                    </div>
+                </div>
+                <hr class="m-2">
+                <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-3">
+                    <div class="row">
+                        <div class="col-12 col-md-9 resume-content">
+                            <h3 class="mb-0"><b>เข้าร่วมอบรม Epson Moverio AR Workshop 2019</b></h3>
+                            <div class="subheading mb-3">จัดโดย EPSON Thailand
+                                <div class="badge badge-danger">15 พฤศจิกายน 2562</div>
+                            </div>
+                            <p>เป็นกิจกรรม Workshop ที่เปิดโอกาสให้ผู้ที่สนใจเทคโนโลยีด้าน AR (Augmented Reality) (รวมถึงตัวผมเอง) ได้
+                                <b>เปิดมุมมองสู่โลกเสมือนจริง AR ด้วยแว่นตาอัจฉริยะ Epson Smart Glass Moverio </b> ที่ได้รับการสนับสนุนจากทาง Epson Thailand และมี<b>อาจารย์อภิชัย เรืองสิริยะกุล</b> ผู้เชี่ยวชาญและพัฒนาโปรแกรม เป็นวิทยากรและให้คำแนะนำต่าง
+                                ๆ ตั้งแต่ขั้นพื้นฐานจน Advanced โดยงานนี้เป็นครั้งแรกที่ผมได้ศึกษาเทคโนโลยีด้าน AR เป็นครั้งแรก รวมถึงได้ทดลองพอร์ตแอพพลิเคชั่นลงแว่นตาอัจฉริยะจากทาง Epson ซึ่งเป็นตัวจุดไอเดียต่าง ๆ และเปิดโลกทัศน์ใหม่ของผมในด้านเทคโนโลยี
+                                AR พร้อมยังพบว่ายังมีสิ่งที่น่าลองและน่าสนใจในเทคโนโลยีนี้อีกมาก
+                            </p>
+                        </div>
+                        <div class="col-12 col-md-3">
+                            <a class="pop" data-toggle="modal" data-target="#pic"><img src="../img/73461D88-356A-492E-A283-07B2F0C60Bsssss37.jpeg" class="img-fluid"></a>
+                        </div>
+                    </div>
+                </div>
+                <hr class="m-2">
+                <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-3">
+                    <div class="row">
+                        <div class="col-12 col-md-9 resume-content">
+                            <h3 class="mb-0"><b>เข้าร่วมการแข่งขัน Web Programming Competition ครั้งที่ 14 และ 15 ประจำปี 2561 และ 2562</b></h3>
+                            <h5>
+                                <div class="text-primary">ปี 2562: <b>รางวัลรองชนะเลิศอันดับที่ 1 (96 คะแนน)</b><br>ปี 2561: <b>รางวัลรองชนะเลิศอันดับที่ 1 (80 คะแนน)</b></div>
+                            </h5>
+                            <div class="subheading mb-3">จัดโดย สาขาวิทยาการคอมพิวเตอร์ คณะวิทยาศาสตร์ มหาวิทยาลัยขอนแก่น
+                                <div class="badge badge-danger">19 สิงหาคม 2562</div>
+                                <div class="badge badge-danger">17 สิงหาคม 2561</div>
+                            </div>
+                            <p>การแข่งขันนี้เป็นการแข่งขันที่จัดขึ้นเนื่องในโอกาสสัปดาห์วันวิทยาศาสตร์แห่งชาติ ซึ่งผมได้เข้าร่วมแข่งขันในการแข่งขันนี้รวมทั้งสิ้น 2 ครั้ง โดยในครั้งที่ 2 (2562) ผม<b>ได้รับรางวัลรองชนะเลิศอันดับที่ 1 ด้วยคะแนน 96 คะแนน ซึ่งสูงกว่าปีที่แล้วและมีพัฒนาการของเว็บไซต์ที่ดีกว่าการแข่งขันในครั้งที่แล้วของผม</b>                                โดยการแข่งขันนี้จะเน้นทักษะด้านการเขียนโปรแกรมบนเว็บไซต์ด้วยภาษา PHP เป็นหลักในการตัดสิน ซึ่งเป็นการแข่งขันที่สนับสนุนและส่งเสริมผมให้มีความรู้ความสามารถในการพัฒนาเว็บไซต์ด้วยภาษา PHP และภาษา HTML รวมถึงด้านภาษา CSS หรือ
+                                Library อย่าง Bootstrap ซึ่งเป็นสิ่งอำนวยความสะดวกในการพัฒนาเว็บไซต์ด้านความสวยงามและถือเป็นหนึ่งในเกณฑ์ในการตัดสินคะแนนอีกด้วย
+                            </p>
+                        </div>
+                        <div class="col-12 col-md-3 text-center">
+                            <a class="pop" data-toggle="modal" data-target="#pic"><img src="https://webcontest.cs.kku.ac.th/2562/photo/CS23.jpg" class="img-fluid mb-3"></a>
+                            <p class="mb-0">เข้าชมผลงาน</p>
+                            <a href="https://webcontest.cs.kku.ac.th/2562/CS23/" target="_blank" class="btn btn-danger">2562</a>
+                            <a href="https://webcontest.cs.kku.ac.th/2561/A19/" target="_blank" class="btn btn-danger">2561</a>
+                        </div>
+                    </div>
+                </div>
+                <hr class="m-2">
+                <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-3">
+                    <div class="row">
+                        <div class="col-12 col-md-12 resume-content">
+                            <h3 class="mb-0"><b>วิทยากรโครงการค่ายส่งเสริมศักยภาพและความเป็นผู้นำของคณะกรรมการนักเรียน ประจำปีการศึกษา 2562</b></h3>
+                            <div class="subheading mb-3">จัดโดย โรงเรียนสาธิตมหาวิทยาลัยขอนแก่น ฝ่ายมัธยมศึกษา (มอดินแดง)
+                                <div class="badge badge-danger">18 - 20 พฤษภาคม 2562</div>
+                            </div>
+                            <p>ผมได้รับมอบหมายให้เป็น<b>วิทยากรประจำค่าย โครงการค่ายส่งเสริมศักยภาพและความเป็นผู้นำของคณะกรรมการนักเรียน ประจำปีการศึกษา 2562</b> ซึ่งทำให้ผมกลายเป็นผู้จัดกิจกรรมต่าง ๆ และได้ถ่ายทอดประสบการณ์ทั้งหมดตั้งแต่ต้นปีการศึกษาจนจบให้รุ่นน้องได้รับรู้และได้นำข้อดีข้อเสียต่าง ๆ ไปปรับใช้ในปีของน้อง ๆ ถัด ๆ ไป โดยผมเป็นผู้ดูแลสื่อโสตทัศนูกรณ์ระหว่างค่าย ทั้งการถ่ายภาพ การจัดทำวิดีโอ หรือการจัดเตรียมสไลด์สำหรับกิจกรรมต่าง ๆ</p>
+                            <div class="row">
+                                <div class="col-12 col-md-4">
+                                    <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/DSC_3014.JPG"></a>
+                                </div>
+                                <div class="col-12 col-md-4">
+                                    <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/DSC_0158.JPG"></a>
+                                </div>
+                                <div class="col-12 col-md-4">
+                                    <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/DSC_2980.JPG"></a>
+                                </div>
+                                <div class="col-12 col-md-4">
+                                    <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/DSC_3681.JPG"></a>
+                                </div>
+                                <div class="col-12 col-md-4">
+                                    <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/DSC_3267.JPG"></a>
+                                </div>
+                                <div class="col-12 col-md-4">
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe src="https://www.youtube.com/embed/aamwfp314w4" class="embed-responsive-item" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="https://photos.app.goo.gl/cvn9DttBPC6fWSk48" target="_blank" class="btn btn-danger mt-3">ดูอัลบั้มกิจกรรม</a>
+
+                        </div>
+                    </div>
+                </div>
+                <hr class="m-2">
+                <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-3">
+                    <div class="row">
+                        <div class="col-12 col-md-9 resume-content">
+                            <h3 class="mb-0"><b>เข้าฝึกปฏิบัติจิตอาสา หมวดเวชกรรมสังคม โรงพยาบาลศรีนครินทร์</b></h3>
+                            <div class="subheading mb-3">จัดโดย โรงพยาบาลศรีนครินทร์ คณะแพทยศาสตร์ มหาวิทยาลัยขอนแก่น
+                                <div class="badge badge-danger">25 - 28 มีนาคม 2562</div>
+                            </div>
+                            <div class="row">
+                                <div class="col-12 col-md-4">
+                                    <a class="pop" data-toggle="modal" data-target="#pic"><img class="img img-fluid mb-1" src="../img/55538024_1954122821363399_4854356502489595904_o.jpg">
+                                    </a>
+                                </div>
+                                <div class="col-12 col-md-4">
+                                    <a class="pop" data-toggle="modal" data-target="#pic"><img class="img img-fluid mb-1" src="../img/54730945_1954122194696795_8933276992061571072_o.jpg">
+                                    </a>
+                                </div>
+                                <div class="col-12 col-md-4">
+                                    <a class="pop" data-toggle="modal" data-target="#pic"><img class="img img-fluid mb-1" src="../img/55525885_1954122948030053_281932201749118976_o.jpg">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-3 text-center">
+                            <a class="pop" data-toggle="modal" data-target="#pic"><img src="../img/9_34_56_scan21346871.jpg" class="img-fluid mb-3 border"></a>
+                            <a href="../img/20191204140836049.pdf" target="_blank" class="btn btn-danger">เอกสารรับรองจากโรงพยาบาล</a>
+                        </div>
+                    </div>
+                </div>
+                <hr class="m-2">
+                <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-3">
+                    <div class="row">
+                        <div class="col-12 col-md-9 resume-content">
+                            <h3 class="mb-0"><b>เข้าร่วมค่ายโอลิมปิกวิชาการและดาราศาสตร์โอลิมปิก ค่ายที่ 1 และ 2 สาขาคอมพิวเตอร์</b></h3>
+                            <div class="subheading mb-3">จัดโดย มูลนิธิส่งเสริมโอลิมปิกวิชาการ และพัฒนามาตรฐานวิทยาศาสตร์ศึกษา ในพระอุปถัมภ์สมเด็จพระเจ้าพี่นางเธอ เจ้าฟ้ากัลยาณิวัฒนา กรมหลวงนราธิวาสราชนครินทร์ (สอวน.)
+                                <div class="badge badge-danger">1 - 15 ตุลาคม 2561 (ค่าย 1)</div>
+                                <div class="badge badge-danger">8 - 24 มีนาคม 2562 (ค่าย 2)</div>
+                            </div>
+                            <p>ค่ายโอลิมปิกวิชาการและดาราศาสตร์โอลิมปิกหรือที่ทุกคนเรียกกันติดปากว่า "ค่าย สอวน." เป็นค่ายที่มีส่วนสำคัญต่อผมอย่างมากในการเริ่มสนใจภาษาทางคอมพิวเตอร์อย่างจริงจัง ภายในค่าย ผมได้เรียนรู้ทักษะการเขียนโปรแกรมด้วยภาษา C, C++ ในรูปแบบต่าง
+                                ๆ ทั้งจากทางอาจารย์วิทยากร, พี่ ๆ ค่ายและจากเพื่อน ๆ ของผม ซึ่งถือเป็นครั้งแรกที่ผมได้ศึกษาภาษา C, C++ เพราะในอดีต ผมเริ่มต้นการเขียนโปรแกรมคอมพิวเตอร์จากภาษา Java ที่ถือว่าเป็นภาษาที่มีรูปแบบภาษาเป็น OOP (Object-Oriented
+                                Programming) อย่างเต็มรูปแบบซึ่งแตกต่างจากคนอื่นที่มักจะศึกษาจากภาษา C ซึ่งเป็นภาษาเชิงโครงสร้าง (Structure Programming) ทำให้ผมได้เรียนรู้สิ่งต่าง ๆ มากมายและนำไปปรับปรุงกับสิ่งที่ผมเคยทำเอาไว้ในโปรแกรมต่าง ๆ ของผม
+                            </p>
+                        </div>
+                        <div class="col-12 col-md-3 text-center">
+                            <a class="pop" data-toggle="modal" data-target="#pic"><img src="../img/60354991_2052418144887927_4288070914257453056_o_a.jpg" class="img-fluid mb-3"></a>
+                        </div>
+                    </div>
+                </div>
+                <hr class="m-2">
+                <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-3">
+                    <div class="row">
+                        <div class="col-12 col-md-9 resume-content">
+                            <h3 class="mb-0"><b>เข้าร่วมโครงการประกวดสื่อภูมิสารสนเทศครั้งที่ 8</b></h3>
+                            <div class="subheading mb-3">จัดโดย สำนักงานพัฒนาเทคโนโลยีอวกาศและภูมิสารสนเทศ (องค์การมหาชน)
+                                <div class="badge badge-danger">มีนาคม 2562 - สิงหาคม 2562</div>
+                            </div>
+                            <h5>
+                                <div class="text-primary"><b>เข้ารอบชิงชนะเลิศ และ ได้รับรางวัล GISTDA Top Vote</b></div>
+                            </h5>
+                            <p>สำหรับการแข่งขันนี้ เป็นการแข่งขันแรกของผมในด้านภูมิศาสตร์ และเป็นครั้งแรกของผมที่ได้นำเอาความรู้ทั้งหมดที่มี ไม่ว่าจะเป็นด้านวิชาการ ด้านคอมพิวเตอร์ ด้านการถ่ายภาพ-วิดีโอ และอื่น ๆ มาประยุกต์ใช้ในการสร้างชิ้นงานขึ้นมา โดยกลุ่มพวกเราได้ร่วมกันสร้างสื่อภูมิสารสนเทศภายใต้หัวข้อ
+                                "ขุมทรัพย์ชุมชน" ที่ทาง GISTDA เป็นผู้ตั้งโจทย์ให้ และเราได้มุ่งประเด็นไปยัง "E-SAN Street Food" ถนนที่เต็มไปด้วยวัฒนธรรมของชาวอีสาน ที่สามารถบอกเล่าเรื่องราวต่าง ๆ มากมาย ผ่านเมนูอาหารต่าง ๆ ที่มีให้เลือกสันและแซบด้วยรสชาติ
+                                แซบด้วยวัตถุดิบ แซบด้วยกรรมวิธี จนกลายเป็นที่ยอมรับไปทั่วโลก
+                            </p>
+                        </div>
+                        <div class="col-12 col-md-3 text-center">
+                            <a class="pop" data-toggle="modal" data-target="#pic"><img src="../img/IMG_8965.jpg" class="img-fluid mb-3"></a>
+                            <a href="https://www.facebook.com/GMC.GISTDA/videos/1356168611223824/" target="_blank" class="btn btn-danger">เข้าชมผลงาน</a>
+                        </div>
+                    </div>
+                </div>
+                <hr class="m-2">
+                <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-3">
+                    <div class="row">
+                        <div class="col-12 col-md-9 resume-content">
+                            <h3 class="mb-0"><b>หัวหน้าฝ่ายโสตทัศนูปกรณ์และสารสนเทศ</b></h3>
+                            <div class="subheading mb-3">
+                                <div class="badge badge-danger">ปีการศึกษา 2561</div>
+                            </div>
+                            <p>สำหรับหน้าที่และภารงานที่ผมได้รับมอบหมาย ในการเป็นส่วนหนึ่งของคณะกรรมการนักเรียนประจำปีการศึกษา 2561 คือ <b>หัวหน้าฝ่ายโสตทัศนูปกรณ์และสารสนเทศ</b> ซึ่งมีหน้าที่ในการดูแลเครื่องเสียงในงานกิจกรรมต่าง ๆ ของทางโรงเรียน ตั้งแต่กิจกรรมประจำอย่าง
+                                กิจกรรมเข้าแถวหน้าเสาธง ไปจนถึงงานใหญ่ ๆ อย่างเช่น กิจกรรมการแข่งขันกีฬาสีภายในประจำปี อีกทั้งผมยังได้รับหน้าที่ในการดูแลการถ่ายทอดสดงานกิจกรรมภายในของทางโรงเรียน โดยผมขอยอมรับตามตรงว่า ในตอนแรกเริ่ม ความรู้ด้านโสตทัศนูปรกรณ์ของคนในฝ่ายงานค่อนข้างที่จะมีอยู่น้อย
+                                ทำให้แรก ๆ อาจจะดูเป็นงานหนักสำหรับผมและเพื่อน ๆ แต่เราก็เรียนรู้จากข้อผิดพลาดต่าง ๆ ที่พบเจอในแต่ละงาน เพื่อปรับปรุงแก้ไขจุดบกพร่องนั้นในงานถัด ๆ ไป จนผมได้รับการยอมรับและได้รับ<b>รางวัลนักเรียนผู้มีผลงานดีเด่นด้านงานกิจกรรมโรงเรียน
+                                เนื่องในกิจกรรมวันแห่งเกียรติยศประจำปีการศึกษา 2561</b> ซึ่งถือเป็นพัฒนาการที่ดีของผม และต้องขอบคุณไปยังอาจารย์และผู้มีส่วนเกี่ยวข้องต่าง ๆ ที่สอนทักษะงานให้ และถือเป็น 1 ในความทรงจำที่ดี ตลอดปีการศึกษาของผม :)
+                            </p>
+                        </div>
+                        <div class="col-12 col-md-3 text-center">
+                            <a class="pop" data-toggle="modal" data-target="#pic"><img src="../img/34108677_1503738813068471_2936139063448567808_o.jpg" class="img-fluid mb-1"></a>
+                            <a class="pop" data-toggle="modal" data-target="#pic"><img src="../img/46063577_1765444123564604_8784187046445973504_o.jpg" class="img-fluid mb-3"></a>
+                        </div>
+                    </div>
+                </div>
+                <hr class="m-2">
+                <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-3">
+                    <div class="row">
+                        <div class="col-12 col-md-12 resume-content">
+                            <h3 class="mb-0"><b>เข้าร่วมโครงการค่ายส่งเสริมศักยภาพและความเป็นผู้นำของคณะกรรมการนักเรียน ประจำปีการศึกษา 2561</b></h3>
+                            <div class="subheading mb-3">จัดโดย โรงเรียนสาธิตมหาวิทยาลัยขอนแก่น ฝ่ายมัธยมศึกษา (มอดินแดง)
+                                <div class="badge badge-danger">25 - 27 พฤษภาคม 2561</div>
+                            </div>
+                            <p>กิจกรรมนี้เป็นกิจกรรมที่ส่งเสริมด้านความเป็นผู้นำ, ความสามัคคีในหมู่คณะ, การวางแผนการทำงาน และความกล้าแสดงออกของคณะกรรมการนักเรียน ทั้งยังได้แลกเปลี่ยนประสบการณ์กับคณะกรรมการนักเรียนรุ่นก่อน ๆ และทัศนคติในบางประเด็นกับอาจารย์
+                                และยังได้เสนอแนะ/แนะนำกิจกรรม - การปรับปรุงโรงเรียนไปในทิศทางที่ดีขึ้นอีกด้วย
+                            </p>
+                            <div class="row">
+                                <div class="col-12 col-md-4">
+                                    <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/33710685_2077744142497778_6084455283755581440_o.jpg"></a>
+                                </div>
+                                <div class="col-12 col-md-4">
+                                    <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/37357281_1567329616709390_2584825985769668608_o.jpg"></a>
+                                </div>
+                                <div class="col-12 col-md-4">
+                                    <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/33769742_2077754482496744_1046353036596740096_o.jpg"></a>
+                                </div>
+                            </div>
+                            <p>โดยในปีถัดมา ผมได้รับมอบหมายให้เป็น<b>วิทยากรประจำค่าย โครงการค่ายส่งเสริมศักยภาพและความเป็นผู้นำของคณะกรรมการนักเรียน ประจำปีการศึกษา 2562</b> ซึ่งทำให้ผมกลายเป็นผู้จัดกิจกรรมต่าง ๆ และได้ถ่ายทอดประสบการณ์ทั้งหมดตั้งแต่ต้นปีการศึกษาจนจบให้รุ่นน้องได้รับรู้และได้นำข้อดีข้อเสียต่าง
+                                ๆ ไปปรับใช้ในปีของน้อง ๆ ถัด ๆ ไป</p>
+                        </div>
+                    </div>
+                </div>
+                <hr class="m-2">
+                <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-3">
+                    <div class="row">
+                        <div class="col-12 col-md-9 resume-content">
+                            <h3 class="mb-0"><b>เข้าร่วมการประกวดโครงงานวิทยาศาสตร์ งานสัปดาห์วันวิทยาศาสตร์</b></h3>
+                            <div class="subheading mb-3">จัดโดย โรงเรียนสาธิตมหาวิทยาลัยขอนแก่น ฝ่ายมัธยมศึกษา (มอดินแดง)
+                                <div class="badge badge-danger">11 สิงหาคม 2560</div>
+                            </div>
+                            <h5>
+                                <div class="text-primary">ระดับมัธยมศึกษาตอนปลาย (2560): <b>รางวัลรองชนะเลิศอันดับที่ 2</b></div>
+                            </h5>
+                            <p class="text-primary">หัวข้อ: <b>การเปรียบเทียบประสิทธิภาพของน้ำหมักจากสัปปะรดพันธุ์ปัตตาเวียและใบยูคาลิปตัสที่มีผลต่อการเจริญเติบโตของหญ้าคา, บัวบก และหญ้านวลน้อย</b></p>
+                                <p>โครงงานนี้เป็นโครงงานที่ผมทำร่วมกับเพื่อนอีก 2 คน โดยศึกษาปัญหาจากสิ่งรอบ ๆ ตัว ซึ่งพวกเราเลือกที่จะศึกษาเกี่ยวกับวัชพืชที่พบได้ตามครัวเรือนทั่วไปโดยเฉพาะที่ก่อให้เกิดปัญหาและความรำคาญแก่ผู้อยู่อาศัย อันได้แก่ หญ้าคา, หญ้านวลน้อย
+                                    และ ใบบัวบก ซึ่งพวกเราต้องการที่จะกำจัดมันโดยปราศจากสารเคมี ทำให้พวกเราเริ่มศึกษาไปทางด้านสารที่มาจากพืช - สมุนไพร เช่น สัปปะรด, ใบยูคาลิปตัส มาเป็นตัวเลือกหนึ่งของเรา โดยโครงงานนี้ใช้เวลาศึกษาเพียง 6 เดือนทำให้พวกเราจำเป็นต้องวางแผนงานกันอย่างดี
+                                    ทั้งในการวางแผนการทดลองซึ่งมีการทดลองซ้ำถึง 3 ครั้งเพื่อให้ได้ผลลัพธ์ที่คาดเคลื่อนน้อยที่สุด, การวางแผนการทำงานในการศึกษาข้อมูล, ศึกษาความเป็นไปได้ต่าง ๆ จนงานสำเร็จลุล่วงและได้รับรางวัลรองชนะเลิศอันดับที่ 2 ไปในที่สุด
+                                </p>
+                        </div>
+                        <div class="col-12 col-md-3 text-center">
+                            <a class="pop" data-toggle="modal" data-target="#pic"><img src="../img/28061461_1403181909790829_8820038733341249858_o.jpg" class="img-fluid mb-3"></a>
+                        </div>
+                    </div>
+                </div>
+                <hr class="m-2">
+                <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-3">
+                    <div class="row">
+                        <div class="col-12 col-md-9 resume-content">
+                            <h3 class="mb-0"><b>เข้าร่วมการแข่งขันตอบปัญหาทางด้าน ICT ภาคตะวันออกเฉียงเหนือ ครั้งที่ 10 และ 11</b></h3>
+                            <div class="subheading mb-3">จัดโดย เทศบาลนครขอนแก่น
+                                <div class="badge badge-danger">5 สิงหาคม 2560</div>
+                                <div class="badge badge-danger">6 สิงหาคม 2559</div>
+                            </div>
+                            <h5>
+                                <div class="text-primary">ระดับมัธยมศึกษาตอนปลาย (2560): <b>รางวัลรองชนะเลิศอันดับที่ 2</b></div>
+                                <div class="text-primary">ระดับมัธยมศึกษาตอนต้น (2559): <b>รางวัลชนะเลิศ</b></div>
+                            </h5>
+                            <p>การแข่งขันนี้เป็นการแข่งขันแรกของผมทางด้านคอมพิวเตอร์ ซึ่งถือเป็นกิจกรรมที่สำคัญและส่งผลให้ผมสนใจทางด้านคอมพิวเตอร์ และ IT มากขึ้นจากในอดีต ซึ่งเป็นการแข่งแบบทีมคู่และมีเนื้อหาที่ใช้ในการแข่งขันที่ค่อนข้างละเอียด ทำให้ต้องมีการวางแผนในเรื่องการทบทวนกับเพื่อนร่วมทีมให้ดี
+                                จนสามารถผ่านเข้ารอบ 10 ทีมสุดท้ายและได้รางวัลมาในที่สุด
+                            </p>
+                        </div>
+                        <div class="col-12 col-md-3 text-center">
+                            <a class="pop" data-toggle="modal" data-target="#pic"><img src="../img/20615568_1822291181122331_2159942697760072493_o.jpg" class="img-fluid mb-3"></a>
+                            <a href="https://www.facebook.com/pg/KKICT/videos" target="_blank" class="btn btn-danger">ถ่ายทอดสดการแข่งขัน (ย้อนหลัง)</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <hr class="m-0">
+
+        <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="interests">
+            <div class="w-100">
+                <h2 class="mb-5">โปรเจกต์</h2>
+                <ul class="timeline">
+                    <li>
+                        <h4 class="text-primary">เว็บไซต์โรงพยาบาลศรีนครินทร์ คณะแพทยศาสตร์ มหาวิทยาลัยขอนแก่น
+                            <a class="float-right">2565</a></h4>
+                        <p><a href="https://srinagarind.md.kku.ac.th/" target="_blank" class="btn btn-info mb-2"><i class="fas fa-globe"></i> เยี่ยมชมเว็บไซต์</a></p>
+                        <div class="row">
+                            <div class="col-12 col-md-6">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Web capture_28-6-2022_151434_srinagarind.md.kku.ac.th.jpeg"></a>
+                            </div>
+                            <div class="col-12 col-md-6">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Web capture_28-6-2022_15117_srinagarind.md.kku.ac.th.jpeg"></a>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Web capture_28-6-2022_151155_srinagarind.md.kku.ac.th.jpeg"></a>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Screenshot 2022-06-29 160731.jpg"></a>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Web capture_29-6-2022_161137_srinagarind.md.kku.ac.th.jpeg"></a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <h4 class="text-primary">เว็บไซต์ภาควิชากุมารเวชศาสตร์ คณะแพทยศาสตร์ มหาวิทยาลัยขอนแก่น
+                            <a class="float-right">2564</a></h4>
+                        <p><a href="https://pedmd.kku.ac.th/" target="_blank" class="btn btn-info mb-2"><i class="fas fa-globe"></i> เยี่ยมชมเว็บไซต์</a></p>
+                        <div class="row">
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Screenshot 2022-06-28 150606.jpg"></a>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Screenshot 2022-06-28 150349.jpg"></a>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Screenshot 2022-06-28 150439.jpg"></a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <h4 class="text-primary">เว็บไซต์ฝ่ายเภสัชกรรม โรงพยาบาลศรีนครินทร์ คณะแพทยศาสตร์ มหาวิทยาลัยขอนแก่น
+                            <a class="float-right">2563</a></h4>
+                        <p><a href="https://pharm.md.kku.ac.th/" target="_blank" class="btn btn-info mb-2"><i class="fas fa-globe"></i> เยี่ยมชมเว็บไซต์</a></p>
+                        <div class="row">
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Screenshot 2022-06-28 145910.jpg"></a>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Screenshot 2022-06-28 150130.jpg"></a>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Screenshot 2022-06-28 150254.jpg"></a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <h4 class="text-primary">ระบบติดตามและจัดการเอกสารขององค์กรผ่านเว็บแอพพลิเคชัน <a class="float-right">2564</a></h4>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ในปัจจุบัน งานเภสัชกรรม โรงพยาบาลศรีนครินทร์ คณะแพทยศาสตร์ มหาวิทยาลัยขอนแก่น ได้มีการเปิดให้แพทย์ผู้ใช้ยา สามารถจัดหายาเฉพาะรายให้แก่ผู้ป่วยเฉพาะโรคได้ โดยการกรอกแบบฟอร์มด้วยลายมือและดำเนินการยื่นเรื่องผ่านหน่วยธุรการ ของงานเภสัชกรรมฯ และมีระยะเวลาในการดำเนินการตั้งแต่ 1 วัน ถึง 1 เดือน โดยเหตุผลที่ระยะเวลาในการดำเนินการดังกล่าวมีความแตกต่างกันมาก เกิดจากการที่เอกสารทั้งหมดใช้การส่งเอกสารแบบเป็นกระดาษ (Physical Document) ทำให้อาจมีการตกหล่นระหว่างทางได้ อีกทั้งยังไม่สามารถเรียงลำดับความสำคัญได้ชัดเจน
+                            <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;นอกเหนือไปจากนั้น ในการติดตามสถานะของเอกสารในปัจจุบันยังเป็นการติดตามด้วยตนเองผ่านทางโทรศัพท์ หรือการสอบถามกับผู้ดำเนินเอกสารโดยตรง อันก่อให้เกิดการสิ้นเปลืองเวลาและทรัพยากรบุคคล อีกทั้งเอกสารส่วนหนึ่งยังจำเป็นต้องใช้การกรอกด้วยลายมือ ทำให้มีความคลาดเคลื่อนและตกหล่นของข้อมูล
+                            <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ดังนั้น คณะผู้จัดทำจึงมีแนวคิดที่จะพัฒนาระบบติดตามการจัดหายาเฉพาะรายให้ผู้ป่วยเฉพาะโรคโดยใช้ระบบติดตามและจัดการเอกสารขององค์กรผ่านเว็บแอพพลิเคชัน เพื่อแก้ไขปัญหาและเพิ่มประสิทธิภาพในการดำเนินการเอกสาร
+                            <br><br>โปรเจกต์นี้เป็นส่วนหนึ่งของรายวิชา EN811301-02 Advanced Computer Programming ซึ่งมีการทำงานร่วมกับเพื่อนในสาขา ได้แก่ <a href="https://github.com/PhattharaniThongsriphong">PhattharaniThongsriphong</a> และ <a href="https://github.com/Phatcharaphon2001">Phatcharaphon2001</a> <br><a href="https://github.com/p0ndja/ODTS" target="_blank" class="btn btn-dark mb-2"><i class="fab fa-github"></i> Checkout this repository</a>
+                        </p>
+                        <div class="row">
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Picture1.jpg"></a>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Picture4.jpg"></a>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Picture5.jpg"></a>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Picture2.jpg"></a>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Picture3.jpg"></a>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Picture6.jpg"></a>
+                            </div>
+                            <div class="col-12 col-md-6">
+                                <div class="embed-responsive embed-responsive-16by9">
+                                    <iframe src="https://www.youtube.com/embed/7eymGXWNbMY" class="embed-responsive-item" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+                            </div>
+                            <div class="col-12 col-md-6">
+                                <div class="embed-responsive embed-responsive-16by9" style="border: 1px solid;">
+                                    <iframe class="embed-responsive-item" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+                                        src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEdDXB2tBE&#x2F;view?embed">
+                                    </iframe>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <h4 class="text-primary">เว็บไซต์ตรวจและประเมินผลโปรแกรม Grader.ga<a class="float-right">2563</a></h4>
+                        <p>โปรเจกต์นี้เป็นอีกโปรเจกต์ที่ทำร่วมกันกับ <a href="https://github.com/Nepumi" target="_blank">Nepumi</a> ซึ่งเป็นเพื่อนมัธยมปลายที่รู้จักตอนเข้าค่าย สอวน. คอมพิวเตอร์ 2562 โดยเป็นเว็บไซต์ที่ใช้ในการตรวจสอบผลการรันโปรแกรมว่าโปรแกรมนั้นได้ผลลัพธ์ตรงตามที่โจทย์ตรงการ และมีประสิทธิภาพหรือไม่ ที่อยู่บนพื้นฐานของภาษา HTML, CSS (+Bootstrap), PHP และ JavaScript รวมถึง Opensource ต่าง ๆ ทั้ง PDF.js, Editor.md, MDBootstrap โดยผมเป็นผู้ดูแลในส่วนของ Frontend หรือหน้าตาทั้งหมดของเว็บไซต์ รวมถึงการแสดงผลต่าง ๆ และ Nepumi เป็นผู้ดูแลในส่วนของระบบตรวจโปรแกรมที่อยู่ในฝั่งของ Backend
+                            <br><br>โปรเจกต์นี้ได้รับการสนับสนุนจาก รศ.ธัชพงศ์ กตัญญูกุล (<a href="https://github.com/tatpongkatanyukul" target="_blank">tatpongkatanyukul</a>) ในการปรับเว็บไซต์จากการตรวจโปรแกรม เป็นการใช้ในการตรวจสอบคำตอบของวงจรไฟฟ้าในวิชา Linear Circuit Analysis ทั้งในรูปแบบสมการ, คำตอบของตัวแปร และอื่น ๆ
+                            <br><a href="https://grader.ga/" target="_blank" class="btn btn-danger mb-2">ลองไปส่งโค้ตกัน</a> <a href="https://github.com/CoE30-KKU/graderga/" target="_blank" class="btn btn-dark mb-2"><i class="fab fa-github"></i> Checkout this repository</a>
+                        </p>
+                        <div class="row">
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Screenshot 2021-05-02 155418.jpg"></a>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Screenshot 2021-05-02 161551.jpg"></a>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Screenshot 2021-05-02 155634.jpg"></a>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Screenshot 2021-05-02 155541.jpg"></a>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Screenshot 2021-05-02 161532.jpg"></a>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Screenshot 2021-05-02 161801.jpg"></a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <h4 class="text-primary">เว็บไซต์จองกิจกรรมโรงเรียนมหาวชิราวุธ จังหวัดสงขลา
+                            <a class="float-right">2563</a></h4>
+                        <p>โปรเจกต์นี้เป็นโปรเจกต์ที่ทำร่วมกับ <a href="https://github.com/EntityKunG" target="_blank">EntityKunG</a> ซึ่งเป็นเพื่อนที่รู้จักที่อยู่โรงเรียนมหาวชิราวุธฯ ซึ่งเป็นเว็บไซด์ที่ช่วยให้นักเรียนภายในโรงเรียนสามารถลงชื่อเข้าร่วมกิจกรรมได้ ซึ่งสะดวกต่อการลงทะเบียนเพราะไม่จำเป็นต้องกรอกข้อมูลซ้ำ ๆ หลาย ๆ ครั้ง เพียงแค่กรอกครั้งแรกในตอนสมัครสมาชิกเท่านั้น โดยอยู่บนพื้นฐานของภาษา HTML, CSS (+Bootstrap), PHP และ JavaScript และยังมี Opensource อื่น ๆ เช่น Summernote WYSIWYG Editor สำหรับตัว Editor, MDBootstrap สำหรับ Library เสริมของ
+                            Bootstrap ต่าง ๆ ที่เคยใช้ทั้งหมดกับ SMDWebDev มาปรับใช้กับเว็บนี้ แต่เว็บไซด์นี้จะมีการปรับปรุงและรื้อโครงสร้างพื้นฐาน - ความปลอดภัยของเว็บไซด์ใหม่ทั้งหมด (และนำไปใช้กับ SMDWebDev ด้วย)
+                            <br><a href="https://commvsk.com" target="_blank" class="btn btn-danger mb-2">เข้าชมเว็บไซต์</a></p>
+                        <div class="row">
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Screenshot 2020-12-13 005047.jpg"></a>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Screenshot 2020-12-13 005155.jpg"></a>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Screenshot 2020-12-13 005309.jpg"></a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <h4 class="text-primary">เว็บไซต์โรงเรียนสาธิตมหาวิทยาลัยขอนแก่น ฝ่ายมัธยมศึกษา (มอดินแดง)
+                            <a class="float-right">2562</a></h4>
+                        <p>โปรเจกต์นี้เป็นโปรเจกต์แรกที่ได้ศึกษาทางด้านการพัฒนาเว็บไซต์เพื่อใช้งานอย่างจริงจัง (ก่อนหน้านี้จะเน้นพัฒนาเว็บไซต์เพื่อการแข่งขัน) โดยงานนี้เป็นการปรับปรุง<a href="http://www.smd.kku.ac.th" target="_blank">เว็บไซต์เดิมของทางโรงเรียน</a>ที่ผมพบว่า
+                            ตัวเว็บไซต์ยังใช้ Joomla ซึ่งค่อนข้างที่เป็นเทคโนโลยีที่เก่า (Outdated) ในระดับหนึ่งแล้ว ทั้งยังไม่ครอบคลุมความต้องการบางส่วนของอาจารย์ และในส่วนของการติดตั้ง-ตั้งค่าคอมโพเนนต์ (Component), โมดูล (Module) และปลั๊กอิน (Plug-in)
+                            ยังยากสำหรับการปรับปรุงแก้ไขและอัพเดท ทำให้ผมมองหาวิธีการใหม่ที่สามารถเพิ่มประสิทธิภาพและความสามารถของเว็บไซต์เดิม ในตอนแรกผมเริ่มด้วยการศึกษา CMS อื่นนอกจาก Joomla เช่น Wordpress, Drupal, Blogger แต่พบว่ามีข้อจำกัดบางอย่างที่ไม่สามารถปรับแต่งเองได้
+                            ทำให้สุดท้ายผมจึงตัดสินใจเขียนทั้งหมดขึ้นมาเอง โดยอยู่บนพื้นฐานของภาษา HTML, CSS (+Bootstrap), PHP และ JavaScript และยังมี Opensource อื่น ๆ เช่น Summernote WYSIWYG Editor สำหรับตัว Editor, MDBootstrap สำหรับ Library เสริมของ
+                            Bootstrap มาปรับใช้กับเว็บไซต์ใหม่ที่กำลังพัฒนา
+                            <br><a href="https://smd.pondja.com" target="_blank" class="btn btn-danger mb-2 disabled">เข้าชมเว็บไซต์ใหม่ (ยกเลิกโปรเจกต์)</a> <a href="https://github.com/p0ndja/WebDev" target="_blank" class="btn btn-dark mb-2"><i class="fab fa-github"></i> Checkout this repository</a></p>
+                        <div class="row">
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Annotation%202019-11-29%20114539.jpg"></a>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Annotation%202019-11-29%20115148.jpg"></a>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/Annotation%202019-11-29%20115227.jpg"></a>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <h4 class="text-primary">โปรแกรมนาฬิกายิง (Shot Clock)
+                            <a class="float-right">2561</a></h4>
+
+                        <p> โปรแกรมนี้เขียนขึ้นเพื่อใช้ในการแข่งขัน SMD Basketball League 2018 โดยเฉพาะ โดยใช้ภาษา Java ร่วมกับไลบารี Library สำหรับในการจัดทำ GUI ได้แก่ WindowBuilder และ JavaX โดยมีความคิดริเริ่มมาจากการที่โปรแกรม Freeware ของ Shot Clock
+                            ที่มีอยู่ทั่วไปมีฟังก์ชั่นที่จำกัด อีกทั้งโปรแกรมที่มีฟังก์ชั่นตรงตามความต้องการยังจำเป็นจะต้องจ่ายค่าลิขสิทธิ์ซอร์ฟแวร์ที่มีราคาสูงในระดับหนึ่ง อาจารย์หมวดพลศึกษาจึงได้เสนอให้นักเรียนจัดทำ Shot Clock ขึ้นมาเพื่อการจัดแข่งขันภายในโรงเรียนโดยมีผมเป็นผู้พัฒนาและดูแลโปรแกรม
+                            โดยปัจจุบันโปรแกรมได้รับการพัฒนาต่อเพื่อปรับปรุงประสิทธิภาพ การทำงาน และหน้าตา จนเป็นที่ยอมรับและได้นำไปใช้จริงร่วมด้วยในงานกีฬาสีภายในของโรงเรียนประจำปีการศึกษา 2561
+                            <br><a href="https://github.com/p0ndja/shotClock" target="_blank" class="btn btn-dark mb-2"><i class="fab fa-github"></i> Checkout this repository</a></p>
+                        <div class="row">
+                            <div class="col-12 col-md-3"></div>
+                            <div class="col-12 col-md-6">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/39937490_1623698134405871_6492766146570223616_o.jpg"></a>
+                            </div>
+                            <div class="col-12 col-md-3"></div>
+                        </div>
+                    </li>
+                    <li>
+                        <h4 class="text-primary">โปรแกรมออดโรงเรียน
+                            <a class="float-right">2560</a></h4>
+
+                        <p>โปรแกรมนี้เป็นโปรแกรมที่จัดทำขึ้นเพื่อปลดล็อกข้อจำกัดเดิม ๆ ของระบบออดโรงเรียนที่มีฟังก์ชั่นที่จำกัดและยากต่อการดูแลรักษา ทำให้อาจารย์ที่ดูแลระบบออดอยู่เดิมนั้น เล็งเห็นถึงความสามารถของผมและเสนอให้ลองจัดทำโปรแกรมนี้ขึ้นมา โดยโปรแกรมนี้เขียนด้วยภาษา
+                            Java ร่วมกับไลบารี Library สำหรับในการจัดทำ GUI ได้แก่ WindowBuilder และ JavaX
+                            <br><a href="https://github.com/p0ndja/runTimeSelection" target="_blank" class="btn btn-dark mb-2"><i class="fab fa-github"></i> Checkout this repository</a></p>
+                        <div class="row">
+                            <div class="col-12 col-md-3"></div>
+                            <div class="col-12 col-md-6">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/48357801_1809674289141587_4054905575073382400_o.jpg"></a>
+                            </div>
+                            <div class="col-12 col-md-3"></div>
+                        </div>
+                    </li>
+                    <li>
+                        <h4 class="text-primary">โครงงานสาขาคอมพิวเตอร์
+                            <a class="float-right">2559</a></h4>
+
+                        <p> ปลั๊กอิน Minecraft ภาษา: Java “เป็นโครงงานที่จุดประกายความฝันในการพัฒนาโปรแกรมของผม แม้จะดูเป็นงานที่ง่าย ๆ แต่ก็ต้องใช้ความรู้และการวางแผนในการพัฒนา”
+                            <br><a href="https://github.com/p0ndja/SMD_Main" target="_blank" class="btn btn-dark mb-2"><i class="fab fa-github"></i> Checkout this repository</a>
+                        </p>
+                        <div class="row">
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/22780264_1308011399307881_7695298575985179018_n.jpg"></a>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/14963127_1000845436691147_8158932433489469097_n2.jpg"></a>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img class="img-fluid mb-1" src="../img/20863482_1250465038395851_3914069432530432783_o.jpg"></a>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </section>
+
+        <hr class="m-0">
+
+        <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="awards">
+            <div class="w-100">
+                <h2 class="mb-4">ความภาคภูมิใจ</h2>
+                <ul class="fa-ul mb-3" style="color: #101010">
+                    <h4 class="text-primary"><b>ด้านคอมพิวเตอร์</b></h4>
+                    <li><i class="fa-li fas fa-laptop-code text-warning"></i> เข้าร่วม<b>โครงการค่ายโอลิมปิกวิชาการ (สอวน.) สาขาคอมพิวเตอร์ ค่ายที่ 1 และ 2</b> ประจำปีการศึกษา 2561</li>
+                    <li><i class="fa-li fa fa-trophy text-warning"></i> รางวัล<b>นักเรียนผู้มีผลงานดีเด่นด้านงานกิจกรรมโรงเรียน</b> เนื่องในกิจกรรมวันแห่งเกียรติยศประจำปีการศึกษา 2561</li>
+                    <li><i class="fa-li fa fa-trophy text-warning"></i> รางวัล<b>รองชนะเลิศอันดับที่ 1 การแข่งขัน Web Programming Competition </b>เนื่องในสัปดาห์วันวิทยาศาสตร์แห่งชาติ ประจำปีการศึกษา 2561 และ 2562</li>
+                    <li><i class="fa-li fa fa-trophy text-warning"></i> รางวัล<b>ชนะเลิศ การแข่งขันสร้าง Webpage ประเภท Web Editor </b>ในโครงการ Computer Education Open House 2018</li>
+                    <li><i class="fa-li fa fa-trophy text-warning"></i> รางวัล<b>รองชนะเลิศอันดับที่ 2 ระดับมัธยมศึกษาตอนปลาย โครงการแข่งขันตอบปัญหาทางด้าน ICT </b>ภาคตะวันออกเฉียงเหนือครั้งที่ 11</li>
+                    <li><i class="fa-li fa fa-trophy text-warning"></i> รางวัล<b>ชนะเลิศ ระดับมัธยมศึกษาตอนต้น โครงการแข่งขันตอบปัญหาทางด้าน ICT </b>ภาคตะวันออกเฉียงเหนือครั้งที่ 10</li>
+                    <li><i class="fa-li fa fa-trophy text-warning"></i> รางวัล<b>นักเรียนผู้มีผลงานดีเด่นด้านวิชาการ ด้านคอมพิวเตอร์ </b> ระดับมัธยมศึกษาตอนต้นและตอนปลาย</li>
+                    <li><i class="fa-li fas fa-graduation-cap text-warning"></i> เข้าร่วมค่าย <b> "Potential and Skill Development Camp" </b>ภายใต้โครงการ EMSP โรงเรียนสาธิตมหาวิทยาลัยขอนแก่น ฝ่ายมัธยมศึกษา (มอดินแดง)</li>
+                    <li><i class="fa-li fas fa-stethoscope text-warning"></i> เข้าร่วม<b>การแข่งขันตอบปัญหาวิทยาศาสตร์การแพทย์และทักษะการคิด</b> ประจำปี 2561</li>
+                </ul>
+                <ul class="fa-ul mb-3" style="color: #101010">
+                    <h4 class="text-primary"><b>ด้านวิชาการ</b></h4>
+                    <li><i class="fa-li fa fa-trophy text-warning"></i> <b>รางวัล GISTDA TOP VOTE ในการแข่งขันรอบชิงชนะเลิศ </b>โครงการประกวดสื่อภูมิสารสนเทศครั้งที่ 8 (Geo-Informatics Media Contest 2019) จัดโดย สำนักงานพัฒนาเทคโนโลยีอวกาศและภูมิสารสนเทศ
+                        (องค์การมหาชน)
+                    </li>
+                    <li><i class="fa-li fas fa-laptop-code text-warning"></i> เข้าร่วม<b>โครงการค่ายโอลิมปิกวิชาการ (สอวน.) สาขาคอมพิวเตอร์ ค่ายที่ 1 และ 2 ประจำปีการศึกษา 2561</b></li>
+                    <li><i class="fa-li fa fa-trophy text-warning"></i> รางวัล<b>รองชนะเลิศอันดับที่ 2 การประกวดโครงงานวิทยาศาสตร์ </b> ระดับมัธยมศึกษาตอนปลาย</li>
+                    <li><i class="fa-li fa fa-trophy text-warning"></i> รางวัล<b>นักเรียนผู้มีผลการเรียนดีเด่นอันดับที่ 1 </b> ระดับมัธยมศึกษาปีที่ 4</li>
+                    <li><i class="fa-li fa fa-trophy text-warning"></i> รางวัล<b>นักเรียนผู้มีผลการเรียนดีเด่นอันดับที่ 2 </b> ระดับมัธยมศึกษาปีที่ 3</li>
+                </ul>
+                <ul class="fa-ul mb-0" style="color: #101010">
+                    <h4 class="text-primary"><b>ด้านอื่น ๆ</b></h4>
+                    <li><i class="fa-li fas fa-praying-hands text-warning"></i> เข้าร่วมค่ายอบรมพัฒนาจิต ณ ศูนย์ปฏิบัติธรรมสวนเวฬุวัน จังหวัดขอนแก่น</li>
+                    <li><i class="fa-li fas fa-hand-holding-heart text-warning"></i> เข้าร่วมกิจกรรมจิตอาสา ณ โรงพยาบาลศรีนครินทร์ คณะแพทยศาสตร์ มหาวิทยาลัยขอนแก่น</li>
+                    <li><i class="fa-li fas fa-user-friends text-warning"></i> เข้าร่วมโครงการค่ายส่งเสริมศักยภาพและความเป็นผู้นำของคณะกรรมการนักเรียน ประจำปีการศึกษา 2561</li>
+                    <li><i class="fa-li fas fa-person-booth text-warning"></i> เป็นผู้ช่วยวิทยากรประจำฐาน โครงการค่ายส่งเสริมศักยภาพและความเป็นผู้นำของคณะกรรมการนักเรียน ประจำปีการศึกษา 2562</li>
+                </ul>
+            </div>
+        </section>
+        <hr class="m-0">
+
+        <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="praise">
+            <div class="w-100">
+                <h2 class="mb-4">คำนิยม</h2>
+                <div class="row">
+                    <div class="col-12 col-md-3">
+                        <div class="card mb-3">
+                            <div class="card-header text-dark">
+                                <p>[วิศวะ] จากรองผู้อำนวยการ - <b>ผศ.ดลชัย ศรีสำราญ</b></p>
+                            </div>
+                            <div class="card-body">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img src="../img/2019-11-29_175928.jpg" class="img-fluid"></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3">
+                        <div class="card mb-3">
+                            <div class="card-header text-dark">
+                                <p>[วิศวะ] จากผู้ช่วยผู้อำนวยการฝ่ายพัฒนานักเรียนและองค์กรสัมพันธ์ - <b>อ.ดร.ศักดิ์สิทธิ์ หัสมินทร์</b></p>
+                            </div>
+                            <div class="card-body">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img src="../img/%E0%B8%84%E0%B8%B3%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%A1_%E0%B8%AD%E0%B8%B2%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B9%8C%E0%B9%82%E0%B8%A1.jpg" class="img-fluid"></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3">
+                        <div class="card mb-3">
+                            <div class="card-header text-dark">
+                                <p>[วิศวะ] จากงานแนะแนวและทุนการศึกษา - <b>อ.วรวุฒิ สันประภา</b></p>
+                            </div>
+                            <div class="card-body">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img src="../img/%E0%B8%84%E0%B8%B3%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%A1_%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%A7%E0%B8%B0_%E0%B8%AD%E0%B8%99%E0%B8%B0%E0%B9%82%E0%B8%A1.jpg" class="img-fluid"></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3">
+                        <div class="card mb-3">
+                            <div class="card-header text-dark">
+                                <p>[เภสัช] จากงานแนะแนวและทุนการศึกษา - <b>อ.วรวุฒิ สันประภา</b></p>
+                            </div>
+                            <div class="card-body">
+                                <a class="pop" data-toggle="modal" data-target="#pic"><img src="../img/25621203_093548_000003.jpg" class="img-fluid"></a>
+                            </div>
+                        </div>
+                    </div>
+                    </center>
+                </div>
+            </div>
+        </section>
+    </div>
+    <!-- Modal -->
+    <div class="modal fade" id="pic" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-xl" role="document">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <img class="imagepreview img img-fluid w-100" src="">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="appendix">
+        <div class="w-100">
+            <h2 class="mb-4">ภาคผนวก</h2>
+            <h4 class="mb-1">แฟ้มสะสมผลงาน - โครงการผู้มีศักยภาพสูง คณะวิศวกรรมศาสตร์ สาขาวิศวกรรมคอมพิวเตอร์</h4>
+            <hr>
+            <div class="container-fluid w-100 mb-5">
+                <iframe style="width:100%; height:80vh" src="https://online.fliphtml5.com/iexi/nfyw/" seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
+            </div>
+            <h4 class="mb-1">แฟ้มสะสมผลงาน - โครงการรับเข้าด้วย Portfolio คณะเภสัชศาสตร์ หลักสูตรเภสัชศาสตร์บัณฑิต</h4>
+            <hr>
+            <div class="container-fluid w-100">
+                <iframe style="width:100%; height:80vh" src="https://online.fliphtml5.com/iexi/tvvi/" seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
+            </div>
+            <h4 class="mb-1 mt-5">Donation</h4>
+            <hr>
+            <div class="container-fluid w-100">
+                <div class="row">
+                    <div class="col-12 col-md-8">
+                        <div class="d-flex justify-content-center"><img src="https://s3.p0nd.dev/file/400d5/kbankqr.jpg" class="mb-3" width="300" /></div>
+                        <h5 class="text-center font-weight-bold">Palapon Soontornpas / พลภณ สุนทรภาส</h5>
+                        <p class="text-center">
+                            <b>KBank</b> : <code style="color: green;">084-3-24454-8</code> <small class="text-muted">*ไม่ใช่เบอร์โทรศัพท์</small><br>
+                            <b>SCB</b> : <code style="color: purple;">551-442288-3</code><br>
+                            <b>Promptpay / TrueWallet</b> : <code style="color: blue;">090-8508007</code><br>
+                        </p>
+                        <form method="post" action="https://grader.pondja.com/pages/donation_submit_save.php" enctype="multipart/form-data">
+                            <div class="form-group">
+                                <label for="inputName">ชื่อ*</label>
+                                <input type="text" class="form-control" id="inputName" name="name" required>
+                            </div>
+                            <div class="form-row">
+                                <div class="form-group col-md-6">
+                                    <label for="inputAmount">จำนวนเงิน*</label>
+                                    <input type="number" class="form-control" id="inputAmount" name="amount" required>
+                                </div>
+                                <div class="form-group col-md-3">
+                                    <label for="inputDate">วันที่โอน*</label>
+                                    <input type="date" class="form-control" id="inputDate" name="date" required>
+                                </div>
+                                <div class="form-group col-md-3">
+                                    <label for="inputTime">เวลาที่โอน*</label>
+                                    <input type="time" class="form-control" id="inputTime" name="time" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="inputSlip">สลิปโอนเงิน*</label>
+
+                                    <div class="custom-file mb-3" id="inputSlip">
+                                        <input type="file" name="slip" class="custom-file-input" id="validatedCustomFile" required>
+                                        <label class="custom-file-label" for="validatedCustomFile">Choose file...</label>
+                                    </div>
+                                    </div>
+                            </div>
+                            <input type="submit" value="บันทึก" class="form-control btn btn-success">
+                        </form>
+                    </div>
+                    <div class="col-12 col-md-4">
+                        <div class="table-responsive">
+                        <h4 class="font-weight-bold text-center text-warning">Donator</h4>
+                        <table class="table table-sm table-hover w-100" id="submissionTable" style="max-height: 60vh;">
+                            <thead>
+                                <tr class="text-nowrap me">
+                                    <th scope="col" class="font-weight-bold text-warning">User</th>
+                                    <th scope="col" class="font-weight-bold text-warning">Amount</th>
+                                </tr>
+                            </thead>
+                            <tbody class="text-nowrap">
+                                <?php
+                                    $json = json_decode(file_get_contents("https://api.p0nd.dev/p0ndja/donation_grader"), true);
+                                    $amount = 0;
+                                    foreach ($json as $j) {
+                                        echo "<tr><th scope='row'>".$j['name']."</th><td>".$j['value']." ฿</td></tr>";
+                                        $amount += $j['value'];
+                                    }
+                                ?>
+                            </tbody>
+                        </table>
+                        </div>
+                        <?php   $val = ($amount / 5000)*100;
+                                $valMsg = $val > 100 ? "<text class='font-weight-bold rainbow'>".number_format((float) $val, 2, '.', '')."%</text>" : number_format((float) $val, 2, '.', '') . "%"; ?>
+                        <div class="progress">
+                            <div class="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" style="width: <?php echo $val;?>%" aria-valuenow="<?php echo $val;?>" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
+                        <p class="text-center"><small class="text-muted"><?php echo $amount; ?>/5000 THB (<?php echo $valMsg; ?>)</small></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="../vendor/jquery/jquery.min.js"></script>
+    <script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="../vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="js/resume.min.js"></script>
+
+    <script type="text/javascript">
+        $(function() {
+            $('.pop').on('click', function() {
+                $('.imagepreview').attr('src', $(this).find('img').attr('src'));
+            });
+        });
+    </script>
+
+</body>
+
+</html>
