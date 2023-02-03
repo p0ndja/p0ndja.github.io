@@ -4,19 +4,8 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
  */
 
-@font-face {
-    font-family: fc_iconic;
-    src: url('../font/FCIconicRegular.203b6ffd.ttf');
-}
-
-@font-face {
-    font-family: fc_iconic;
-    src: url('../font/FCIconicBold.cc627412.ttf');
-    font-weight: 700;
-}
-
 body {
-    font-family:  Inter, 'fc_iconic', Prompt, sans-serif;
+    font-family:  Inter, 'IBM Plex Sans Thai Looped', Prompt, sans-serif;
     padding-top: 54px;
     color: #868e96;
 }
@@ -34,32 +23,30 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'fc_iconic', sans-serif;
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
     font-weight: bold;
     text-transform: uppercase;
     color: #24282b
 }
 
 h1 {
-    font-size: 8rem;
+    font-size: 6rem;
+    line-height: 6.5rem;
 }
 
 h2 {
-    font-size: 6rem;
-    line-height: 5rem;
+    font-size: 5rem;
+    line-height: 5.5rem;
 }
 
 h3 {
-    font-size: 3rem
+    font-size: 2.5rem;
+    line-height: 3rem;
 }
 
 h4 {
-    font-size: 1.75rem
-}
-
-p.lead {
-    font-size: 1.15rem;
-    font-weight: 400
+    font-size: 1.5rem;
+    line-height: 2rem;
 }
 
 p {
