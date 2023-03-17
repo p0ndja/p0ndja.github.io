@@ -5,7 +5,7 @@
  */
 
 body {
-    font-family:  Inter, 'IBM Plex Sans Thai Looped', Prompt, sans-serif;
+    font-family:  Inter, Prompt, sans-serif;
     padding-top: 54px;
     color: #868e96;
 }
@@ -178,13 +178,13 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-    color: #ff5148
+    color: #ffc30f
 }
 
 a:active,
 a:focus,
 a:hover {
-    color: #824027
+    color: #c88200
 }
 
 ul.timeline {
