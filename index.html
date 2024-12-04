@@ -175,13 +175,13 @@
             <div class="resume-content md-1">
               <div class="row">
                 <div class="col-4 col-md-2">
-                  <img src="img/enkku.png" class="img img-fluid" />
+                  <img src="img/logo/enkku.min.png" class="img img-fluid" />
                 </div>
                 <div class="col-8 col-md-10">
-                  <h4 class="mb-0">Master Degree</h4>
-                  <h5 class="mb-0">
-                    Master of Engineering Program in Computer Engineering
-                  </h5>
+                  <h4 class="mb-0">Master's Student</h4>
+                  <div class="mb-0">
+                    Currently studying in Master of Engineering Program in Computer Engineering.
+                  </div>
                   <a href="//www.en.kku.ac.th" target="_blank"
                     ><b>Faculty of Engineering, Khon Kaen University</b></a
                   ><br />
@@ -213,7 +213,7 @@
             <div class="resume-content md-1">
               <div class="row">
                 <div class="col-4 col-md-2">
-                  <img src="img/enkku.png" class="img img-fluid" />
+                  <img src="img/logo/enkku.min.png" class="img img-fluid" />
                 </div>
                 <div class="col-8 col-md-10">
                   <h4 class="mb-0">Bachelor Degree</h4>
@@ -255,7 +255,7 @@
               </div>
               <div class="row">
                 <div class="col-4 col-md-2">
-                  <img src="img/smdlogo.png" class="img img-fluid" />
+                  <img src="img/logo/smdlogo.min.png" class="img img-fluid" />
                 </div>
                 <div class="col-8 col-md-10">
                   <h4 class="mb-0">High School</h4>
@@ -2281,7 +2281,7 @@
         <h4 class="mb-1">
           Resume
           <a
-            href="file/Palapon Soontornpas - Resume.pdf"
+            href="file/resume/Palapon Soontornpas - Resume - 20241204.pdf"
             target="_blank"
             class="btn btn-outline-info btn-sm"
             ><i class="far fa-file-pdf"></i> PDF</a
@@ -2289,8 +2289,8 @@
         </h4>
         <hr />
         <div class="container-fluid w-100">
-          <a href="file/Palapon Soontornpas - Resume.pdf" target="_blank"
-            ><img src="file/Palapon Soontornpas - Resume.png" class="img-fluid"
+          <a href="file/resume/Palapon Soontornpas - Resume - 20241204.pdf" target="_blank"
+            ><img src="file/resume/Palapon Soontornpas - Resume - 20241204.png" class="img-fluid"
           /></a>
         </div>
         <h4 class="mb-1 mt-5">
@@ -2398,7 +2398,9 @@
     <script type="text/javascript">
       $(function () {
         $(".pop").on("click", function () {
-          $(".imagepreview").attr("src", $(this).find("img").attr("src"));
+          // if the pop has attribute data-src, then set the image src to the value of data-src, else use from "img"
+          let src = $(this).data("src") ? $(this).data("src") : $(this).find("img").attr("src");
+          $(".imagepreview").attr("src", src);
         });
       });
     </script>
