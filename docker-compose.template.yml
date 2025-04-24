@@ -1,0 +1,30 @@
+services:
+  me_pondja_php:
+    container_name: me_pondja_php
+    image: php:8.2-apache
+    restart: unless-stopped
+    networks:
+      - traefik_external # Connect to the same network as Traefik
+    labels:
+      # --- Traefik Labels ---
+      - "traefik.enable=true" # Enable Traefik for this service
+
+      # --- HTTP Router ---
+      - "traefik.http.routers.me_pondja_php-http.rule=Host(`me.pondja.localhost`)"
+      - "traefik.http.routers.me_pondja_php-http.entrypoints=web" # Use the 'web' entrypoint (usually port 80)
+
+      # --- Service Definition ---
+      - "traefik.http.services.me_pondja_php.loadbalancer.server.port=80" # Next.js default port
+
+      # --- Optional: HTTPS Router (if Traefik is configured for HTTPS) ---
+      - "traefik.http.routers.me_pondja_php-https.rule=Host(`me.pondja.com`, `hello.pondja.com`)"
+      - "traefik.http.routers.me_pondja_php-https.entrypoints=websecure" # Use the 'websecure' entrypoint (usually port 443)
+      - "traefik.http.routers.me_pondja_php-https.tls=true"
+      - "traefik.http.routers.me_pondja_php-https.tls.certresolver=myresolver" # Replace 'myresolver' with your cert resolver name
+      - "traefik.http.routers.me_pondja_php-https.service=me_pondja_php" # Point HTTPS router to the same service
+    volumes:
+      - ./:/var/www/html
+networks:
+  traefik_external:
+    external: true
+    name: traefik_network
