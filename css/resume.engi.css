@@ -113,6 +113,11 @@ li {
     flex-direction: column;
     width: 17rem;
     height: 100vh;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    border-right: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 8px 32px 0 rgba(19, 161, 161, 0.37);
   }
   #sideNav .navbar-brand {
     display: flex;
@@ -145,10 +150,28 @@ li {
 
 section.resume-section {
   padding-bottom: 5rem !important;
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 20px;
+  margin: 1rem;
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.2);
 }
 
 section.resume-section .resume-item .resume-date {
   min-width: none;
+}
+
+.resume-item {
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 12px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  /* box-shadow: 0 4px 16px 0 rgba(31, 38, 135, 0.25); */
 }
 
 @media (min-width: 768px) {
@@ -170,7 +193,10 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #008080 !important;
+  background-color: rgba(0, 128, 128, 0.8) !important;
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 }
 
 .text-primary {
@@ -219,4 +245,28 @@ ul.timeline > li:before {
   width: 20px;
   height: 20px;
   z-index: 400;
+}
+
+/* Liquid Glass / Glassmorphism Styles */
+.glass {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 15px;
+  box-shadow: 0 8px 32px 0 rgba(19, 161, 161, 0.3);
+}
+
+.glass-dark {
+  background: rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 15px;
+  box-shadow: 0 8px 32px 0 rgba(19, 161, 161, 0.3);
+}
+
+body {
+  /* background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); */
+  min-height: 100vh;
 }
