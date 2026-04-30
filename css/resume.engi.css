@@ -3,13 +3,33 @@
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
  */
+html {
+  scroll-behavior: smooth;
+}
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, Inter, "Arial", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, Inter, "Arial", 'Prompt', sans-serif;
   padding-top: 54px;
+  background: #111111;
   color: #868e96;
-  background-color: #f5f5f7;
+  overflow-x: hidden;
+  position: relative;
+  min-height: 100vh;
 }
+
+/* 
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(circle at 20% 50%, rgba(0, 0, 0, 0.2) 0%, transparent 50%),
+    radial-gradient(circle at 80% 80%, rgba(0, 0, 0, 0.15) 0%, transparent 50%);
+  pointer-events: none;
+  z-index: 0;
+} */
 
 @media (min-width: 992px) {
   body {
@@ -27,31 +47,65 @@ h6 {
   font-family: "Bai Jamjuree", sans-serif;
   font-weight: bold;
   text-transform: uppercase;
-  color: #24282b;
+  color: #f0f0f0;
 }
 
+.subheading {
+  font-family: "Bai Jamjuree", sans-serif;
+  font-weight: bold;
+  color: #f0f0f0;
+}
+
+/* 
 h1 {
-  font-size: 6rem;
+  font-size: 4rem;
   line-height: 6.5rem;
 }
 
 h2 {
-  font-size: 3.75rem;
+  font-size: 2rem;
   line-height: 4rem;
 }
 
 h3 {
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   line-height: 3rem;
 }
 
 h4 {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   line-height: 2rem;
+} */
+
+@media (min-width: 768px) {
+  h1 {
+    font-size: 6rem;
+    line-height: 6.5rem;
+  }
+
+  h2 {
+    font-size: 3.75rem;
+    line-height: 4rem;
+  }
+
+  h3 {
+    font-size: 2.5rem;
+    line-height: 3rem;
+  }
+
+  h4 {
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+
 }
 
-p {
-  color: #32373b;
+
+p,
+li,
+span,
+div {
+  color: #e0e0e0;
 }
 
 p,
@@ -120,16 +174,19 @@ li {
     border-right: 1px solid rgba(255, 255, 255, 0.2);
     box-shadow: 0 8px 32px 0 rgba(19, 161, 161, 0.37);
   }
+
   #sideNav .navbar-brand {
     display: flex;
     margin: auto auto 0;
     padding: 0.5rem;
   }
+
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
   }
+
   #sideNav .navbar-collapse {
     display: flex;
     align-items: flex-start;
@@ -137,13 +194,16 @@ li {
     width: 100%;
     margin-bottom: auto;
   }
+
   #sideNav .navbar-collapse .navbar-nav {
     flex-direction: column;
     width: 100%;
   }
+
   #sideNav .navbar-collapse .navbar-nav .nav-item {
     display: block;
   }
+
   #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
     display: block;
   }
@@ -157,7 +217,7 @@ section.resume-section {
   border: 1px solid rgba(255, 255, 255, 0.1);
   border-radius: 20px;
   margin: 1rem;
-  box-shadow: 0 8px 32px 0 rgba(73, 137, 139, 0.2);
+  /* box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.2); */
 }
 
 section.resume-section .resume-item .resume-date {
@@ -181,6 +241,7 @@ section.resume-section .resume-item .resume-date {
     min-height: 100vh;
     padding-top: 5rem !important;
   }
+
   section.resume-section .resume-item .resume-date {
     min-width: 18rem;
   }
@@ -201,7 +262,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-  color: #008080 !important;
+  color: #00a7a7 !important;
 }
 
 a {
@@ -221,7 +282,7 @@ ul.timeline {
 
 ul.timeline:before {
   content: " ";
-  background: #d4d9df;
+  background: #1a8888;
   display: inline-block;
   position: absolute;
   left: 29px;
@@ -230,12 +291,12 @@ ul.timeline:before {
   z-index: 400;
 }
 
-ul.timeline > li {
+ul.timeline>li {
   margin: 20px 0;
   padding-left: 20px;
 }
 
-ul.timeline > li:before {
+ul.timeline>li:before {
   content: " ";
   background: white;
   display: inline-block;
