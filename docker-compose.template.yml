@@ -1,7 +1,7 @@
 services:
   me_pondja_php:
     container_name: me_pondja_php
-    image: php:8.2-apache
+    image: php:8.2.35-apache
     restart: unless-stopped
     networks:
       - traefik_network
